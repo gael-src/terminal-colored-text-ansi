@@ -18,20 +18,21 @@ export const colors = {
 };
 
 // Verwendung der Farben
-// console.log(colors.red + "Roter Text" + colors.reset);
-// console.log(colors.green + "Grüner Text" + colors.reset);
-// console.log(colors.blue + "Blauer Text" + colors.reset);
-// console.log(colors.yellow + "Gelber Text" + colors.reset);
-// console.log(colors.magenta + "Magenta Text" + colors.reset);
-// console.log(colors.cyan + "Cyan Text" + colors.reset);
-// console.log(colors.white + "Weißer Text" + colors.reset);
+console.log(colors.red + "Roter Text" + colors.reset);
+console.log(colors.green + "Grüner Text" + colors.reset);
+console.log(colors.blue + "Blauer Text" + colors.reset);
+console.log(colors.yellow + "Gelber Text" + colors.reset);
+console.log(colors.magenta + "Magenta Text" + colors.reset);
+console.log(colors.cyan + "Cyan Text" + colors.reset);
+console.log(colors.white + "Weißer Text" + colors.reset);
 
-// console.log(`${colors.red} test ${colors.reset}`);
+console.log(`${colors.red}Template string test${colors.reset}`);
 ```
 
 ---
 
 **Ansi Color codes:**
+
 - https://talyian.github.io/ansicolors/
 - https://github.com/fidian/ansi
 - https://gist.github.com/JBlond/2fea43a3049b38287e5e9cefc87b2124
