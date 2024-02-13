@@ -4,7 +4,7 @@
 // https://gist.github.com/JBlond/2fea43a3049b38287e5e9cefc87b2124
 
 // Farben definieren
-export const colors = {
+const colors = {
   reset: "\x1b[0m",
   red: "\x1b[31m",
   green: "\x1b[32m",
@@ -16,12 +16,12 @@ export const colors = {
 };
 
 // Verwendung der Farben
-// console.log(colors.red + "Roter Text" + colors.reset);
-// console.log(colors.green + "Grüner Text" + colors.reset);
-// console.log(colors.blue + "Blauer Text" + colors.reset);
-// console.log(colors.yellow + "Gelber Text" + colors.reset);
-// console.log(colors.magenta + "Magenta Text" + colors.reset);
-// console.log(colors.cyan + "Cyan Text" + colors.reset);
-// console.log(colors.white + "Weißer Text" + colors.reset);
+console.log(colors.red + "Roter Text" + colors.reset);
+console.log(colors.green + "Grüner Text" + colors.reset);
+console.log(colors.blue + "Blauer Text" + colors.reset);
+console.log(colors.yellow + "Gelber Text" + colors.reset);
+console.log(colors.magenta + "Magenta Text" + colors.reset);
+console.log(colors.cyan + "Cyan Text" + colors.reset);
+console.log(colors.white + "Weißer Text" + colors.reset);
 
-// console.log(`${colors.red} test ${colors.reset}`);
+console.log(`${colors.red}Template string test${colors.reset}`);
