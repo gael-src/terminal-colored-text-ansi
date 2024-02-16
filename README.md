@@ -4,6 +4,14 @@ Terminal colored text with ansi colors
 
 ---
 
+**Ansi Color codes:**
+
+- https://talyian.github.io/ansicolors/
+- https://github.com/fidian/ansi
+- https://gist.github.com/JBlond/2fea43a3049b38287e5e9cefc87b2124
+
+---
+
 ```javascript
 const c = {
   // Text color
@@ -97,11 +105,3 @@ console.log(c.bol + c.c + "Bold Cyan Text" + c.end);
 console.log(c.bol + c.w + "Bold White Text" + c.end);
 console.log(c.bol + c.k + "Bold Black Text" + c.end);
 ```
-
----
-
-**Ansi Color codes:**
-
-- https://talyian.github.io/ansicolors/
-- https://github.com/fidian/ansi
-- https://gist.github.com/JBlond/2fea43a3049b38287e5e9cefc87b2124
