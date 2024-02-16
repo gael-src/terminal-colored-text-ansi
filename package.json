@@ -1,0 +1,27 @@
+{
+  "type": "module",
+  "name": "terminal-colored-text-ansi",
+  "version": "1.0.0",
+  "description": "Terminal colored text with ansi colors",
+  "main": "main.js",
+  "scripts": {
+    "test": "node log-examples.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gael-src/terminal-colored-text-ansi.git"
+  },
+  "keywords": [
+    "terminal",
+    "colored",
+    "text",
+    "ansi",
+    "colors"
+  ],
+  "author": "gael-src",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gael-src/terminal-colored-text-ansi/issues"
+  },
+  "homepage": "https://github.com/gael-src/terminal-colored-text-ansi#readme"
+}
