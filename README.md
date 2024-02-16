@@ -15,6 +15,8 @@ Terminal colored text with ansi colors
 
 ---
 
+### Code:
+
 ```javascript
 const c = {
   // Text color
