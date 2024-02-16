@@ -75,6 +75,8 @@ console.log(c.Y + c.m + "Magenta Text on Yellow Background" + c.end);
 console.log(c.M + c.c + "Cyan Text on Magenta Background" + c.end);
 console.log(c.C + c.b + "Blue Text on Cyan Background" + c.end);
 console.log(c.W + c.g + "Green Text on White Background" + c.end);
+console.log(c.W + c.r + "Red Text on White Background" + c.end);
+console.log(c.K + c.g + "Green Text on Black Background" + c.end);
 console.log(c.K + c.r + "Red Text on Black Background" + c.end);
 
 console.log(`
