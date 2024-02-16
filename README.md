@@ -57,7 +57,7 @@ const c = {
 // How to use:
 
 console.log(`
---- Text color examples ---`);
+--- Text color examples: ---`);
 console.log(c.r + "Red Text" + c.end);
 console.log(c.g + "Green Text" + c.end);
 console.log(c.b + "Blue Text" + c.end);
@@ -68,7 +68,7 @@ console.log(c.w + "White Text" + c.end);
 console.log(c.k + "Black Text" + c.end);
 
 console.log(`
---- Background color examples ---`);
+--- Background color examples: ---`);
 console.log(c.R + "Red Background" + c.end);
 console.log(c.G + "Green Background" + c.end);
 console.log(c.B + "Blue Background" + c.end);
@@ -79,7 +79,7 @@ console.log(c.W + "White Background" + c.end);
 console.log(c.K + "Black Background" + c.end);
 
 console.log(`
---- Text attribute examples ---`);
+--- Text attribute examples: ---`);
 console.log(c.bol + "Bold Text" + c.end);
 console.log(c.dim + "Dim Text" + c.end);
 console.log(c.und + "Underlined Text" + c.end);
@@ -88,7 +88,7 @@ console.log(c.rev + "Reversed Text" + c.end);
 console.log(c.hid + "Hidden Text" + c.end);
 
 console.log(`
---- Reset text attribute examples ---`);
+--- Reset text attribute examples: ---`);
 console.log(c.bol + "Bold Text" + c.r_bol + " Normal Text" + c.end);
 console.log(c.dim + "Dim Text" + c.r_dim + " Normal Text" + c.end);
 console.log(c.und + "Underlined Text" + c.r_und + " Normal Text" + c.end);
@@ -97,7 +97,7 @@ console.log(c.rev + "Reversed Text" + c.r_rev + " Normal Text" + c.end);
 console.log(c.hid + "Hidden Text" + c.r_hid + " Normal Text" + c.end);
 
 console.log(`
---- Combine bol and color ---`);
+--- Combine bol and color: ---`);
 console.log(c.bol + c.r + "Bold Red Text" + c.end);
 console.log(c.bol + c.g + "Bold Green Text" + c.end);
 console.log(c.bol + c.b + "Bold Blue Text" + c.end);
