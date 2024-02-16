@@ -1,4 +1,4 @@
-# terminal-colored-text
+# terminal-colored-text-ansi
 
 Terminal colored text with ansi colors
 
