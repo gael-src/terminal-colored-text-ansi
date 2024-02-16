@@ -13,3 +13,12 @@ div {
   margin: 5px 0;
   padding: 5px 0;
 }
+
+main p,
+footer p {
+  font-weight: bold;
+}
+
+a:hover {
+  color: darkblue;
+}
