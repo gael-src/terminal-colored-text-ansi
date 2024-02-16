@@ -67,6 +67,17 @@ console.log(c.W + "White Background" + c.end);
 console.log(c.K + "Black Background" + c.end);
 
 console.log(`
+--- Change text color on colored background: ---`);
+console.log(c.R + c.w + "White Text on Red Background" + c.end);
+console.log(c.G + c.k + "Black Text on Green Background" + c.end);
+console.log(c.B + c.y + "Yellow Text on Blue Background" + c.end);
+console.log(c.Y + c.m + "Magenta Text on Yellow Background" + c.end);
+console.log(c.M + c.c + "Cyan Text on Magenta Background" + c.end);
+console.log(c.C + c.b + "Blue Text on Cyan Background" + c.end);
+console.log(c.W + c.g + "Green Text on White Background" + c.end);
+console.log(c.K + c.r + "Red Text on Black Background" + c.end);
+
+console.log(`
 --- Text attribute examples: ---`);
 console.log(c.bol + "Bold Text" + c.end);
 console.log(c.dim + "Dim Text" + c.end);
