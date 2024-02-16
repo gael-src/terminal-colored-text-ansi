@@ -2,7 +2,8 @@
 
 Terminal colored text with ansi colors
 
-https://gael-src.github.io/terminal-colored-text-ansi/
+- Example in website console:
+  - https://gael-src.github.io/terminal-colored-text-ansi/
 
 ---
 
