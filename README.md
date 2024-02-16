@@ -30,7 +30,7 @@ const c = {
   // Text attributes
   bol: "\x1b[1m", // bold/bright
   dim: "\x1b[2m", // dim
-  underscore: "\x1b[4m", // underscore
+  und: "\x1b[4m", // underscore
   bli: "\x1b[5m", // blink
   rev: "\x1b[7m", // reverse/inverse
   hid: "\x1b[8m", // hidden
