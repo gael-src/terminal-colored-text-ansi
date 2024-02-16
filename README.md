@@ -4,6 +4,10 @@ Terminal colored text with ansi colors
 
 https://gael-src.github.io/terminal-colored-text-ansi/
 
+API url for main.js file with all colors codes as JavaScript Object called `c`:
+
+https://raw.githubusercontent.com/gael-src/terminal-colored-text-ansi/main/main.js
+
 ---
 
 **Ansi Color codes:**
