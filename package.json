@@ -13,10 +13,8 @@
   },
   "keywords": [
     "terminal",
-    "colored",
-    "text",
-    "ansi",
-    "colors"
+    "colored text",
+    "ansicolors"
   ],
   "author": "gael-src",
   "license": "ISC",
